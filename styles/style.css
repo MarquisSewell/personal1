@@ -1,0 +1,81 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css);
+
+
+body {
+            
+                background-color: Maroon;
+                color: white;
+            }
+img {
+                width: 500px;
+}
+
+        
+h3 {
+                font-family: bold;
+                font-size: 150%;
+                
+    
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h1 {
+    text-decoration: underline;
+}
+p {
+    font-size: 20px;
+}
+        
+li {
+                font-style: italic;
+                font-size: 20px;
+}
+a:link {
+                color: blue;
+    
+}
+a:visited{
+                color:blue;
+}
+a:hover {
+    color:red;
+}
+
+ #header {
+    background-color:#B22222;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+.nav li {
+    display: inline-block;
+  list-style:none;
+  height: 25px;
+  padding: 10px;
+  margin: 0;
+}
+ul.nav {
+  margin: 20px;
+  padding: 0;
+  background-color: #8B0000;
+  width: 90%
+}
+.nav li a {
+  background-color:Maroon;
+  color: white;
+  text-decoration: none;
+  padding: 5px 10px;
+  float: left;
+  width: auto;
+  border-right: solid 1px white;
+  text-transform: uppercase;
+}
